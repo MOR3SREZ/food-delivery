@@ -16,7 +16,6 @@ import pizza14 from '../assets/pizza/primavera.jpg';
 import pizza15 from '../assets/pizza/salami.jpg';
 import pizza16 from '../assets/pizza/vegetariana.jpg';
 
-//export in the end
 const PIZZA = [
   {
     id: 'p1',

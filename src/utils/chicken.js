@@ -9,7 +9,6 @@ import chicken7 from '../assets/chicken/Grilled Chicken Wings with Shishito Pepp
 import chicken8 from '../assets/chicken/Grilled Chicken Wings with Vinegar.jpg';
 import chicken9 from '../assets/chicken/Thai Grilled Chicken Wings.jpg';
 
-//
 const CHICKEN = [
   {
     id: 'c1',
