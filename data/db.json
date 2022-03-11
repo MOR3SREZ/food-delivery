@@ -1,0 +1,263 @@
+{
+  "recipes": [
+    {
+      "id": "p1",
+      "title": "Pizza alla pala",
+      "category": "pizza",
+      "price": "99.99",
+      "rate": "4.3",
+      "image": "image",
+      "ingredients": [
+        "Flour",
+        "Prosciutto Crudo",
+        "Cherry Tomato",
+        "Cheese",
+        "Olives",
+        "Salamino Piccante",
+        "Basil"
+      ],
+      "description": "Typically shared among groups and consumed by the slice, the Roman invention known as pizza alla pala is a long, oval-shaped flatbread made with a high-hydration, long-rising dough. It is baked in electric ovens, transferred to a wooden board called pala, then topped with various fresh ingredients.The pizza is characterized by a thick crust and a tender, fluffy interior, while the toppings can be anything from prosciutto and cherry tomatoes to various cheeses, olives,and spicy salami."
+      
+    },
+    {
+      "id": "p2",
+      "title": "Prosciutto e funghi pizza ",
+      "category": "pizza",
+      "price": "11.60",
+      "rate": "4.6",
+      "image": "image",
+      "ingredients": [
+        "Flour",
+        "Prosciutto Crudo",
+        "Tomato Sauce",
+        "Mushroom",
+        "Mozzarell"
+        
+      ],
+      "description": "Prosciutto e funghi is a pizza variety that is topped with tomato sauce, mozzarella, thin slices of prosciutto cotto, and mushrooms. Some varieties can be topped with olives or served drizzled with olive oil."
+      
+    },
+    {
+      "id": "p3",
+      "title": "Quattro stagioni pizza",
+      "category": "pizza",
+      "price": "13.30",
+      "rate": "4.1",
+      "image": "image",
+      "ingredients": [
+        "Tomato Sauce",
+        "Prosciutto Cotto",
+        "Champignons",
+        "Artichoke",
+        "Olives",
+        "Flour"
+      ],
+      "description": "Another popular variety of Italian pizza, quattro stagioni (lit. four seasons) is basically made with the same ingredients as the so-called pizza capricciosa, except it has toppings arranged into four sections, each representing a different season.As with capricciosa, the ingredients include an ever-changing combination of tomatoes, mozzarella, mushrooms, artichokes, ham, and olives. Sometimes, these 'seasons' are divided by thin strips of pizza dough."
+      
+    },
+    {
+      "id": "p4",
+      "title": "Picante pizza",
+      "category": "pizza",
+      "price": "10.50",
+      "rate": "4.6",
+      "image": "image",
+      "ingredients": [
+        "Tomato Sauce",
+        "Chili Flakes",
+        "Mozzarella",
+        "Hot Green Chili",
+        "Olives",
+        "Jalapenos"
+      ],
+      "description": "Another popular variety of Italian pizza, quattro stagioni (lit. four seasons) is basically made with the same ingredients as the so-called pizza capricciosa, except it has toppings arranged into four sections, each representing a different season.As with capricciosa, the ingredients include an ever-changing combination of tomatoes, mozzarella, mushrooms, artichokes, ham, and olives. Sometimes, these 'seasons' are divided by thin strips of pizza dough."
+      
+    },
+    {
+      "id": "p5",
+      "title": "Pizza Margherita",
+      "category": "pizza",
+      "price": "8.00",
+      "rate": "4.5",
+      "image": "image",
+      "ingredients": [
+        "Tomato",
+        "Flour",
+        "Mozzarella",
+        "Basil",
+        "Olives"
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },{
+      "id": "p6",
+      "title": "Pizza BBQ Legend",
+      "category": "pizza",
+      "price": "12.90",
+      "rate": "3.8",
+      "image": "image",
+      "ingredients": [
+        "Smoky BBQ sauce", "mozzarella", "chicken", "sweet corn", "mushroom", "parmesan"
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p7",
+      "title": "Pizza Grande",
+      "category": "pizza",
+      "price": "10.50",
+      "rate": "4.9",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p8",
+      "title": "Pizza Crudo e Rucola",
+      "category": "pizza",
+      "price": "10.00",
+      "rate": "4.1",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p9",
+      "title": "Pizza Everest",
+      "category": "pizza",
+      "price": "13.00",
+      "rate": "3.5",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p10",
+      "title": "Pizza Capriciosa",
+      "category": "pizza",
+      "price": "9.99",
+      "rate": "3.2",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p11",
+      "title": "Pizza Americana",
+      "category": "pizza",
+      "price": "14.30",
+      "rate": "4.7",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p12",
+      "title": "Pizza Carnivore",
+      "category": "pizza",
+      "price": "12.80",
+      "rate": "4.8",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p13",
+      "title": "Pizza Primavera",
+      "category": "pizza",
+      "price": "15.80",
+      "rate": "3.9",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p14",
+      "title": "Pizza Italia",
+      "category": "pizza",
+      "price": "10.90",
+      "rate": "4.4",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p15",
+      "title": "Pizza Pollo",
+      "category": "pizza",
+      "price": "11.00",
+      "rate": "4",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p16",
+      "title": "Pizza Vegetariana",
+      "category": "pizza",
+      "price": "9.00",
+      "rate": "3.1",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p17",
+      "title": "Pizza Vegetariana",
+      "category": "pizza",
+      "price": "9.00",
+      "rate": "3.1",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    },
+    {
+      "id": "p18",
+      "title": "Pizza Salami",
+      "category": "pizza",
+      "price": "9.50",
+      "rate": "3.2",
+      "image": "image",
+      "ingredients": [
+        "Homemade tomato sauce", "mozzarella", "ham", "pineapple "
+      ],
+      "description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian flag: red tomatoes, white mozzarella cheese, and green basil.It was made by a chef named Raffaele Esposito of Pizzeria Brandi, who is credited for its invention. The Queen loved the dish, and Esposito named it after her - pizza Margherita, but such a pizza was also made before that time, and can be dated back to at least 1866, when the most popular pizza toppings included basil, cheese, and tomatoes, but the pizza was not yet named Margherita.Since those times, Margherita has become one of the most popular pizza varieties in the world, and in 2009, it was protected as one of the three Pizze Napoletane with an STG European label of protection, proving its excellence in flavor, ingredients, and traditional pizza-making techniques."
+      
+    }
+   
+  ]
+}
